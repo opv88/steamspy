@@ -14,13 +14,13 @@ Currently used and tested on Go 1.24.
 To get the package please enter:
 
 ```go
-go get "github.com/opv88/steamspy"
+go get github.com/opv88/steamspy
 ```
 
 In your go files simply use:
 
 ```go
-import "github.com/opv88/steamspy"
+import "github.com/opv88/steamspy/client"
 ```
 
 # Usage
